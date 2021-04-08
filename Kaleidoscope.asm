@@ -1,4 +1,5 @@
 TITLE Kaleidoscope         (Kaleidoscope.asm)
+; Worked on by Viktor, Abed and Ty 
 INCLUDE Irvine32.inc
 
 .data
